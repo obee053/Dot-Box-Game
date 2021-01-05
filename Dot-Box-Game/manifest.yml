@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Dot-Box-Game
+   random-route: true
+   memory: 128M
